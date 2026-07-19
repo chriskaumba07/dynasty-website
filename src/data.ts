@@ -34,7 +34,7 @@ export const manifesto = {
   eyebrow: "The idea",
   dropCap: "D",  // Just one letter!
   text: "ynasty is not about where I came from. It is about what I choose to leave behind: work with meaning, honest proof of growth, and a life documented with warmth.",
-  aside: "A house for every chapter",
+  aside: "A house for every chapter. I invite you to view...the Dynasty",
 };
 
 // ─────────────────────────────────────────────────────────────────────────────
