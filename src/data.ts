@@ -56,10 +56,10 @@ export const manifesto = {
 export const memories = [
   {
     type: "photo", // 'photo' or 'video' or 'quote'
-    caption: "Lisbon, 6:42 PM",
+    caption: "MAMA",
     // Replace the background with an image like this:
     // backgroundImage: "url(./images/lisbon-photo.jpg)",
-    background: "linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%)",
+    background: "url(./images/20260111_215842.png)",
     span: "tall", // 'tall' = spans 2 rows, 'normal' = normal height
   },
   {
